@@ -1,0 +1,2 @@
+# KruskalWorks
+KruskalImplementationWithoutMapUsing
